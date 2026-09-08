@@ -6,7 +6,7 @@ I build backend and full-stack applications with a focus on scalable APIs, real-
 
 ## Technical Skills
 
-**Languages:** Java, C++, SQL  
+**Languages:** Java, C++, Python, SQL  
 **Backend:** Spring Boot, REST APIs, WebSocket  
 **Databases:** PostgreSQL, Redis  
 **Frontend:** React, HTML, CSS  
